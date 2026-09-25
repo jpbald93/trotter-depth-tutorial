@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.lake/
+lean/.lake/
+*.aux
+*.out
+*.log
+paper/trotter_tutorial.txt

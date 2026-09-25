@@ -1,0 +1,2672 @@
+{
+  "knee": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ],
+      "date-time": "2026-05-01T00:24:05Z",
+      "timestamp": 1777595045684,
+      "version": "3.51.4"
+    },
+    "reference-count": 47,
+    "publisher": "American Physical Society (APS)",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              5,
+              26
+            ]
+          ],
+          "date-time": "2015-05-26T00:00:00Z",
+          "timestamp": 1432598400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://link.aps.org/licenses/aps-default-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Phys. Rev. A"
+    ],
+    "DOI": "10.1103/physreva.91.052327",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          5,
+          26
+        ]
+      ],
+      "date-time": "2015-05-26T11:56:03Z",
+      "timestamp": 1432641363000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 21,
+    "title": [
+      "Optimal Trotterization in universal quantum simulators under faulty control"
+    ],
+    "prefix": "10.1103",
+    "volume": "91",
+    "author": [
+      {
+        "given": "George C.",
+        "family": "Knee",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "William J.",
+        "family": "Munro",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "16",
+    "published-online": {
+      "date-parts": [
+        [
+          2015,
+          5,
+          26
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "PhysRevA.91.052327Cc1R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-physchem-032210-103512"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc3R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1208001"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc4R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nphys1919"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc5R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1177838"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc6R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.273.5278.1073"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc7R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02650179"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc8R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/e12112268"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc9R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature08812"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc10R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.112.200501"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc11R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/RevModPhys.86.153"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc12R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/1521-3978(200009)48:9/11%3C771::AID-PROP771%3E3.0.CO;2-E"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc13R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevA.52.3457"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc14R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspa.1995.0065"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc15R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.75.346"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc16R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevA.86.042335"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc17R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ncomms5213"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc18R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1090/S0002-9939-1959-0108732-6"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc19R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.97.050504"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc20R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0375-9601(92)90035-K"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc21R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0375-9601(92)90335-J"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc22R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00220-006-0150-x"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc23R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevA.90.022305"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc24R1",
+        "first-page": "361",
+        "volume": "15",
+        "author": "D. Poulin",
+        "year": "2015",
+        "journal-title": "Quantum Inf. Comput."
+      },
+      {
+        "key": "PhysRevA.91.052327Cc26R1",
+        "volume-title": "Methods of Modern Mathematical Physics: Functional Analysis",
+        "author": "M. Reed",
+        "year": "1980"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc27R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1751-8113/47/26/265206"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc28R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevA.78.052325"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc29R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/0034-4885/75/8/082401"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc31R1",
+        "volume-title": "Quantum Computation and Quantum Information",
+        "author": "M. Nielsen",
+        "year": "2004"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc32R1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1090/gsm/047",
+        "volume-title": "Classical and Quantum Computation",
+        "author": "A. Y. Kitaev",
+        "year": "2002"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc33R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevA.71.062310"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc34R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0034-4877(72)90011-0"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc36R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1113479"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc38R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevA.71.062340"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc39R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspa.2014.0182"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc40R1",
+        "volume-title": "Proceedings of the Twenty-Ninth Annual ACM Symposium on Theory of Computing, STOC '97",
+        "author": "D. Aharonov",
+        "year": "1997"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc41R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1070/RM1997v052n06ABEH002155"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc42R1",
+        "first-page": "97",
+        "volume": "6",
+        "author": "P. Aliferis",
+        "year": "2006",
+        "journal-title": "Quantum Inf. Comput."
+      },
+      {
+        "key": "PhysRevA.91.052327Cc43R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.279.5349.342"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc44R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/RevModPhys.87.307"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc45R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nchem.483"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc46R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rsta.2011.0494"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc48R1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1137/1.9780898718072",
+        "volume-title": "Numerical Computing with IEEE Floating Point Arithmetic",
+        "author": "M. L. Overton",
+        "year": "2001"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc49R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevA.79.062314"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc50R1",
+        "first-page": "16",
+        "volume": "9",
+        "author": "N. Johnston",
+        "year": "2009",
+        "journal-title": "Quantum Inf. Comput."
+      },
+      {
+        "key": "PhysRevA.91.052327Cc52R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jcss.2003.07.012"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc53R1",
+        "volume-title": "Convex Optimization",
+        "author": "S. Boyd",
+        "year": "2009"
+      },
+      {
+        "key": "PhysRevA.91.052327Cc55R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4086/toc.2009.v005a011"
+      }
+    ],
+    "container-title": [
+      "Physical Review A"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.aps.org/article/10.1103/PhysRevA.91.052327",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://harvest.aps.org/v2/journals/articles/10.1103/PhysRevA.91.052327/fulltext",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          23
+        ]
+      ],
+      "date-time": "2017-06-23T08:20:51Z",
+      "timestamp": 1498206051000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.aps.org/doi/10.1103/PhysRevA.91.052327"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          5,
+          26
+        ]
+      ]
+    },
+    "references-count": 47,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            5
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1103/physreva.91.052327",
+    "relation": {},
+    "ISSN": [
+      "1050-2947",
+      "1094-1622"
+    ],
+    "issn-type": [
+      {
+        "value": "1050-2947",
+        "type": "print"
+      },
+      {
+        "value": "1094-1622",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          5,
+          26
+        ]
+      ]
+    },
+    "article-number": "052327"
+  },
+  "childs": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          22
+        ]
+      ],
+      "date-time": "2026-09-22T07:26:41Z",
+      "timestamp": 1790062001115,
+      "version": "4.0.1"
+    },
+    "reference-count": 80,
+    "publisher": "American Physical Society (APS)",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2021-02-01T00:00:00Z",
+          "timestamp": 1612137600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100006235",
+        "name": "Lawrence Berkeley National Laboratory",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100006235",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000183",
+        "name": "Army Research Office",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "W911NF-16-1-0349"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "W911NF-16-1-0349"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000183",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "CCF-1813814"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "CCF-1813814"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "CCF-1845125"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "CCF-1845125"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100006785",
+        "name": "Google",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100006785",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000015",
+        "name": "U.S. Department of Energy",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "DE-SC0019449"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "DE-SC0019449"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000015",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000015",
+        "name": "U.S. Department of Energy",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "DE-SC0019040"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "DE-SC0019040"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000015",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000181",
+        "name": "Air Force Office of Scientific Research",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100000181",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100006754",
+        "name": "Army Research Laboratory",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100006754",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "name": "Institute for Quantum Computing"
+      },
+      {
+        "name": "Center for Computation and Technology"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.aps.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Phys. Rev. X"
+    ],
+    "DOI": "10.1103/physrevx.11.011020",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          1
+        ]
+      ],
+      "date-time": "2021-02-01T16:26:26Z",
+      "timestamp": 1612196786000
+    },
+    "update-policy": "https://doi.org/10.1103/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 451,
+    "title": [
+      "Theory of Trotter Error with Commutator Scaling"
+    ],
+    "prefix": "10.1103",
+    "volume": "11",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9903-837X",
+        "authenticated-orcid": true,
+        "given": "Andrew M.",
+        "family": "Childs",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1144-3563",
+        "authenticated-orcid": true,
+        "given": "Yuan",
+        "family": "Su",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7599-9160",
+        "authenticated-orcid": true,
+        "given": "Minh C.",
+        "family": "Tran",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nathan",
+        "family": "Wiebe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shuchen",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "16",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          1
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "PhysRevX.11.011020Cc1R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02650179"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc2R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.273.5278.1073"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc3R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/780542.780546",
+        "volume-title": "Proceedings of the 35th ACM Symposium on Theory of Computing",
+        "author": "D. Aharonov",
+        "year": "2003"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc4R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00220-006-0150-x"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc5R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2591796.2591854",
+        "volume-title": "Proceedings of the 46th Annual ACM Symposium on Theory of Computing",
+        "author": "D.\u2009W. Berry",
+        "year": "2014"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc6R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/FOCS.2015.54",
+        "volume-title": "Proceedings of the 56th IEEE Symposium on Foundations of Computer Science",
+        "author": "D.\u2009W. Berry",
+        "year": "2015"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc7R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.118.010501"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc8R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3313276.3316386",
+        "volume-title": "Proceedings of the 51th ACM Symposium on Theory of Computing",
+        "author": "G.\u2009H. Low",
+        "year": "2019"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc9R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevA.90.022305"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc10R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.26421/QIC15.5-6"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc11R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevX.8.011044"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc12R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/RevModPhys.92.015003"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc13R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1217069"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc14R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nchem.483"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc15R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/acs.chemrev.8b00803"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc16R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.103.150502"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc17R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/FOCS.2017.45",
+        "volume-title": "Proceedings of the 58th IEEE Symposium on Foundations of Computer Science",
+        "author": "F.\u2009G.\u2009S.\u2009L. Brandao",
+        "year": "2017"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc18R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4086/toc.2008.v004a008"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc19R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/780542.780552",
+        "volume-title": "Proceedings of the 35th ACM Symposium on Theory of Computing",
+        "author": "A.\u2009M. Childs",
+        "year": "2003"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc20R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1751-8113/47/10/105301"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc21R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.529425"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc22R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1201/b21563",
+        "volume-title": "A Concise Introduction to Geometric Numerical Integration",
+        "author": "S. Blanes",
+        "year": "2016"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc23R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.114.090502"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc24R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.22331/q-2019-07-12-163"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc26R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1367-2630/aab1ef"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc27R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.22331/q-2019-09-02-182"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc29R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.22331/q-2020-02-27-235"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc30R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.123.070503"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc31R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1801723115"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc32R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1619152114"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc33R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevA.91.022311"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc34R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevA.92.062318"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc35R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.123.050503"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc36R1",
+        "volume-title": "APS Meeting Abstracts",
+        "author": "M. Troyer",
+        "year": "2019"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc37R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-319-06379-9_17",
+        "volume-title": "Many-Electron Approaches in Physics, Chemistry and Mathematics",
+        "author": "M. Kliesch",
+        "year": "2014"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc38R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.26421/QIC15.13-14"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc39R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.119.100503"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc40R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.526596"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc41R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/0305-4470/23/24/019"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc42R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10543-010-0282-4"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc43R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.22331/q-2020-07-16-296"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc44R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.4952761"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc45R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1137/060674636"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc46R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1022396519656"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc47R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1137/120866373"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc48R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0962492902000053"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc49R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1137/0916010"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc50R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-662-05018-7",
+        "volume-title": "Geometric Numerical Integration: Structure-Preserving Algorithms for Ordinary Differential Equations",
+        "author": "E. Hairer",
+        "year": "2006"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc52R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevX.9.031006"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc53R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.125.150504"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc54R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9781139020411",
+        "volume-title": "Matrix Analysis",
+        "author": "R.\u2009A. Horn",
+        "year": "2012"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc55R1",
+        "volume-title": "Product Integration with Application to Differential Equations",
+        "author": "J.\u2009D. Dollard",
+        "year": "1984"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc57R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1751-8113/43/6/065203"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc58R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7494/OpMath.2014.34.2.243"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc59R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cam.2013.04.043"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc60R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevX.8.041015"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc61R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.113.010401"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc63R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF01645779"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc64R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00220-006-0030-4"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc65R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10955-006-9143-6"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc66R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00220-006-1556-1"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc67R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.113.030602"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc68R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.114.157201"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc69R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1367-2630/17/6/063021"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc70R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.123.250605"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc71R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/FOCS.2018.00041",
+        "volume-title": "Proceedings of the 59th IEEE Symposium on Foundations of Computer Science",
+        "author": "J. Haah",
+        "year": "2018"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc73R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevX.10.031010"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc74R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevB.91.081103"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc75R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-017-01637-7"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc76R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.120.110501"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc77R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.106.170501"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc78R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevA.99.042314"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc79R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.22331/q-2020-04-20-254"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc80R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/sciadv.aau8342"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc81R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41534-019-0192-5"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc82R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.122.180501"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc83R1",
+        "volume-title": "Basic Real Analysis",
+        "author": "A.\u2009W. Knapp",
+        "year": "2005"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc84R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9781119019572",
+        "volume-title": "Molecular Electronic-Structure Theory",
+        "author": "T. Helgaker",
+        "year": "2014"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc85R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1137/0732088"
+      },
+      {
+        "key": "PhysRevX.11.011020Cc86R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0962492900002828"
+      }
+    ],
+    "container-title": [
+      "Physical Review X"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.aps.org/article/10.1103/PhysRevX.11.011020",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://harvest.aps.org/v2/journals/articles/10.1103/PhysRevX.11.011020/fulltext",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          1
+        ]
+      ],
+      "date-time": "2021-02-01T16:29:32Z",
+      "timestamp": 1612196972000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.aps.org/doi/10.1103/PhysRevX.11.011020"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          1
+        ]
+      ]
+    },
+    "references-count": 80,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            2
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1103/physrevx.11.011020",
+    "relation": {},
+    "ISSN": [
+      "2160-3308"
+    ],
+    "issn-type": [
+      {
+        "value": "2160-3308",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          1
+        ]
+      ]
+    },
+    "article-number": "011020"
+  },
+  "suzuki": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          22
+        ]
+      ],
+      "date-time": "2026-09-22T07:26:46Z",
+      "timestamp": 1790062006665,
+      "version": "4.0.1"
+    },
+    "reference-count": 20,
+    "publisher": "AIP Publishing",
+    "issue": "2",
+    "content-domain": {
+      "domain": [
+        "pubs.aip.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          1991,
+          2,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:p>A general scheme of fractal decomposition of exponential operators is presented in any order m. Namely, exp[x(A+B)]=Sm(x)+O(xm+1) for any positive integer m, where Sm(x)=et1A\u2008et2B\u2008et3A\u2008et4B\u22c5\u22c5\u22c5etMA with finite M depending on m. A general recursive scheme of construction of {tj} is given explicitly. It is proven that some of {tj} should be negative for m\u22653 and for any finite M (nonexistence theorem of positive decomposition). General systematic decomposition criterions based on a new type of time-ordering are also formulated. The decomposition exp[x(A+B)]=[Sm(x/n)]n +O(xm+1/nm) yields a new efficient approach to quantum Monte Carlo simulations.</jats:p>",
+    "DOI": "10.1063/1.529425",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          7,
+          26
+        ]
+      ],
+      "date-time": "2002-07-26T12:46:20Z",
+      "timestamp": 1027687580000
+    },
+    "page": "400-407",
+    "update-policy": "https://doi.org/10.1063/aip-crossmark-policy-page",
+    "source": "Crossref",
+    "is-referenced-by-count": 639,
+    "title": [
+      "General theory of fractal path integrals with applications to many-body theories and statistical physics"
+    ],
+    "prefix": "10.1063",
+    "volume": "32",
+    "author": [
+      {
+        "given": "Masuo",
+        "family": "Suzuki",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Physics, Faculty of Science, University of Tokyo, Bunkyo-Ku, Hongo, Tokyo 113, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "317",
+    "reference": [
+      {
+        "key": "2024020601344530100_r1",
+        "doi-asserted-by": "crossref",
+        "first-page": "319",
+        "DOI": "10.1016/0375-9601(90)90962-N",
+        "volume": "146",
+        "year": "1990",
+        "journal-title": "Phys. Lett. A"
+      },
+      {
+        "key": "2024020601344530100_r2",
+        "doi-asserted-by": "crossref",
+        "first-page": "601",
+        "DOI": "10.1063/1.526596",
+        "volume": "26",
+        "year": "1985",
+        "journal-title": "J. Math. Phys."
+      },
+      {
+        "key": "2024020601344530100_r3",
+        "doi-asserted-by": "crossref",
+        "first-page": "299",
+        "DOI": "10.1016/0375-9601(85)90168-9",
+        "volume": "113",
+        "year": "1985",
+        "journal-title": "Phys. Lett. A"
+      },
+      {
+        "key": "2024020601344530100_r4",
+        "doi-asserted-by": "crossref",
+        "first-page": "883",
+        "DOI": "10.1007/BF02628318",
+        "volume": "43",
+        "year": "1986",
+        "journal-title": "J. Stat. Phys."
+      },
+      {
+        "key": "2024020601344530100_r5"
+      },
+      {
+        "key": "2024020601344530100_r6",
+        "doi-asserted-by": "crossref",
+        "first-page": "1454",
+        "DOI": "10.1143/PTP.56.1454",
+        "volume": "56",
+        "year": "1976",
+        "journal-title": "Prog. Theor. Phys."
+      },
+      {
+        "key": "2024020601344530100_r7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1377",
+        "DOI": "10.1143/PTP.58.1377",
+        "volume": "58",
+        "year": "1977",
+        "journal-title": "Prog. Theor. Phys."
+      },
+      {
+        "key": "2024020601344530100_r8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1397",
+        "DOI": "10.1143/PTP.71.1397",
+        "volume": "71",
+        "year": "1984",
+        "journal-title": "Prog. Theor. Phys."
+      },
+      {
+        "key": "2024020601344530100_r9"
+      },
+      {
+        "key": "2024020601344530100_r10"
+      },
+      {
+        "key": "2024020601344530100_r11",
+        "first-page": "545",
+        "volume": "10",
+        "year": "1959",
+        "journal-title": "Proc. Am. Math. Phys."
+      },
+      {
+        "key": "2024020601344530100_r12",
+        "doi-asserted-by": "crossref",
+        "first-page": "183",
+        "DOI": "10.1007/BF01609348",
+        "volume": "51",
+        "year": "1976",
+        "journal-title": "Commun. Math. Phys."
+      },
+      {
+        "key": "2024020601344530100_r13"
+      },
+      {
+        "key": "2024020601344530100_r14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1100",
+        "DOI": "10.1143/JPSJ.17.1100",
+        "volume": "17",
+        "year": "1962",
+        "journal-title": "J. Phys. Soc. Jpn."
+      },
+      {
+        "key": "2024020601344530100_r15",
+        "doi-asserted-by": "crossref",
+        "first-page": "993",
+        "DOI": "10.1142/S0217979288000822",
+        "volume": "2",
+        "year": "1988",
+        "journal-title": "Int. J. Mod. Phys. B"
+      },
+      {
+        "key": "2024020601344530100_r15a",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/0003-4916(86)90107-7",
+        "volume": "168",
+        "year": "1986",
+        "journal-title": "Ann. Phys."
+      },
+      {
+        "key": "2024020601344530100_r16",
+        "doi-asserted-by": "crossref",
+        "first-page": "663",
+        "DOI": "10.1209/0295-5075/8/7/014",
+        "volume": "8",
+        "year": "1989",
+        "journal-title": "Europhys. Lett."
+      },
+      {
+        "key": "2024020601344530100_r17",
+        "doi-asserted-by": "crossref",
+        "first-page": "506",
+        "DOI": "10.1103/PhysRevB.40.506",
+        "volume": "40",
+        "year": "1989",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "2024020601344530100_r18",
+        "doi-asserted-by": "crossref",
+        "first-page": "3752",
+        "DOI": "10.1143/JPSJ.58.3752",
+        "volume": "58",
+        "year": "1989",
+        "journal-title": "J. Phys. Soc. Jpn."
+      },
+      {
+        "key": "2024020601344530100_r19"
+      }
+    ],
+    "container-title": [
+      "Journal of Mathematical Physics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://pubs.aip.org/aip/jmp/article-pdf/32/2/400/19166143/400_1_online.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://pubs.aip.org/aip/jmp/article-pdf/32/2/400/19166143/400_1_online.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          6
+        ]
+      ],
+      "date-time": "2024-02-06T01:41:13Z",
+      "timestamp": 1707183673000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://pubs.aip.org/jmp/article/32/2/400/229229/General-theory-of-fractal-path-integrals-with"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          1991,
+          2,
+          1
+        ]
+      ]
+    },
+    "references-count": 20,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            1991,
+            2,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1063/1.529425",
+    "relation": {},
+    "ISSN": [
+      "0022-2488",
+      "1089-7658"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-2488",
+        "type": "print"
+      },
+      {
+        "value": "1089-7658",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published-other": {
+      "date-parts": [
+        [
+          1991,
+          2
+        ]
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          1991,
+          2,
+          1
+        ]
+      ]
+    }
+  },
+  "lloyd": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          24
+        ]
+      ],
+      "date-time": "2026-09-24T08:09:52Z",
+      "timestamp": 1790237392569,
+      "version": "4.1.0"
+    },
+    "reference-count": 66,
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "issue": "5278",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Science"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1996,
+          8,
+          23
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Feynman's 1982 conjecture, that quantum computers can be programmed to simulate any local quantum system, is shown to be correct.</jats:p>",
+    "DOI": "10.1126/science.273.5278.1073",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2006-10-27T14:30:41Z",
+      "timestamp": 1161959441000
+    },
+    "page": "1073-1078",
+    "source": "Crossref",
+    "is-referenced-by-count": 2513,
+    "title": [
+      "Universal Quantum Simulators"
+    ],
+    "prefix": "10.1126",
+    "volume": "273",
+    "author": [
+      {
+        "given": "Seth",
+        "family": "Lloyd",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "The author is at the D'Arbeloff Laboratory for Information Systems and Technology, Department of Mechanical Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139, USA."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "221",
+    "reference": [
+      {
+        "key": "e_1_2_1_2_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "4083",
+        "DOI": "10.1103/PhysRevLett.74.4083",
+        "article-title": "CONDITIONAL QUANTUM DYNAMICS AND LOGIC GATES",
+        "volume": "74",
+        "author": "BARENCO A",
+        "year": "1995",
+        "unstructured": "BARENCO A, CONDITIONAL QUANTUM DYNAMICS AND LOGIC GATES, PHYSICAL REVIEW LETTERS 74, 4083 (1995).",
+        "journal-title": "PHYSICAL REVIEW LETTERS"
+      },
+      {
+        "key": "e_1_2_1_3_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "475",
+        "DOI": "10.1111/j.1749-6632.1986.tb12450.x",
+        "volume": "480",
+        "author": "BENIOFF P",
+        "year": "1986",
+        "unstructured": "BENIOFF P, ANN NY ACAD SCI 480, 475 (1986).",
+        "journal-title": "ANN NY ACAD SCI"
+      },
+      {
+        "key": "e_1_2_1_4_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "563",
+        "DOI": "10.1007/BF01011339",
+        "article-title": "THE COMPUTER AS A PHYSICAL SYSTEM - A MICROSCOPIC QUANTUM-MECHANICAL HAMILTONIAN MODEL OF COMPUTERS AS REPRESENTED BY TURING-MACHINES",
+        "volume": "22",
+        "author": "BENIOFF P",
+        "year": "1980",
+        "unstructured": "BENIOFF P, THE COMPUTER AS A PHYSICAL SYSTEM - A MICROSCOPIC QUANTUM-MECHANICAL HAMILTONIAN MODEL OF COMPUTERS AS REPRESENTED BY TURING-MACHINES, JOURNAL OF STATISTICAL PHYSICS 22, 563 (1980).",
+        "journal-title": "JOURNAL OF STATISTICAL PHYSICS"
+      },
+      {
+        "key": "e_1_2_1_5_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "515",
+        "DOI": "10.1007/BF01342185",
+        "article-title": "QUANTUM-MECHANICAL HAMILTONIAN MODELS OF TURING-MACHINES",
+        "volume": "29",
+        "author": "BENIOFF P",
+        "year": "1982",
+        "unstructured": "BENIOFF P, QUANTUM-MECHANICAL HAMILTONIAN MODELS OF TURING-MACHINES, JOURNAL OF STATISTICAL PHYSICS 29, 515 (1982).",
+        "journal-title": "JOURNAL OF STATISTICAL PHYSICS"
+      },
+      {
+        "key": "e_1_2_1_6_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1581",
+        "DOI": "10.1103/PhysRevLett.48.1581",
+        "article-title": "QUANTUM-MECHANICAL MODELS OF TURING-MACHINES THAT DISSIPATE NO ENERGY",
+        "volume": "48",
+        "author": "BENIOFF P",
+        "year": "1982",
+        "unstructured": "BENIOFF P, QUANTUM-MECHANICAL MODELS OF TURING-MACHINES THAT DISSIPATE NO ENERGY, PHYSICAL REVIEW LETTERS 48, 1581 (1982).",
+        "journal-title": "PHYSICAL REVIEW LETTERS"
+      },
+      {
+        "key": "e_1_2_1_7_2",
+        "author": "BINDER K",
+        "year": "1995",
+        "unstructured": "BINDER K, MONTE CARLO METHODS (1995).",
+        "journal-title": "MONTE CARLO METHODS"
+      },
+      {
+        "key": "e_1_2_1_8_2",
+        "author": "BROCKETT R.W.",
+        "year": "1983",
+        "unstructured": "BROCKETT R.W., DIFFERENTIAL GEOMETR (1983).",
+        "journal-title": "DIFFERENTIAL GEOMETR"
+      },
+      {
+        "key": "e_1_2_1_9_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "3339",
+        "DOI": "10.1103/PhysRevLett.72.3339",
+        "article-title": "FROM LAMB SHIFT TO LIGHT SHIFTS - VACUUM AND SUBPHOTON CAVITY FIELDS MEASURED BY ATOMIC PHASE-SENSITIVE DETECTION",
+        "volume": "72",
+        "author": "BRUNE M",
+        "year": "1994",
+        "unstructured": "BRUNE M, FROM LAMB SHIFT TO LIGHT SHIFTS - VACUUM AND SUBPHOTON CAVITY FIELDS MEASURED BY ATOMIC PHASE-SENSITIVE DETECTION, PHYSICAL REVIEW LETTERS 72, 3339 (1994).",
+        "journal-title": "PHYSICAL REVIEW LETTERS"
+      },
+      {
+        "key": "e_1_2_1_10_2",
+        "author": "CALDERBANK A.R.",
+        "unstructured": "CALDERBANK A.R., IN PRESS PHYS REV A .",
+        "journal-title": "IN PRESS PHYS REV A"
+      },
+      {
+        "key": "e_1_2_1_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.270.5242.1633"
+      },
+      {
+        "key": "e_1_2_1_12_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "4091",
+        "DOI": "10.1103/PhysRevLett.74.4091",
+        "article-title": "QUANTUM COMPUTATIONS WITH COLD TRAPPED IONS",
+        "volume": "74",
+        "author": "CIRAC J.I.",
+        "year": "1995",
+        "unstructured": "CIRAC J.I., QUANTUM COMPUTATIONS WITH COLD TRAPPED IONS, PHYSICAL REVIEW LETTERS 74, 4091 (1995).",
+        "journal-title": "PHYSICAL REVIEW LETTERS"
+      },
+      {
+        "key": "e_1_2_1_13_2",
+        "first-page": "97",
+        "article-title": "QUANTUM-THEORY, THE CHURCH-TURING PRINCIPLE AND THE UNIVERSAL QUANTUM COMPUTER",
+        "volume": "400",
+        "author": "DEUTSCH D",
+        "year": "1985",
+        "unstructured": "DEUTSCH D, QUANTUM-THEORY, THE CHURCH-TURING PRINCIPLE AND THE UNIVERSAL QUANTUM COMPUTER, PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES 400, 97 (1985).",
+        "journal-title": "PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES"
+      },
+      {
+        "key": "e_1_2_1_14_2",
+        "first-page": "73",
+        "article-title": "QUANTUM COMPUTATIONAL NETWORKS",
+        "volume": "425",
+        "author": "DEUTSCH D",
+        "year": "1989",
+        "unstructured": "DEUTSCH D, QUANTUM COMPUTATIONAL NETWORKS, PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES 425, 73 (1989).",
+        "journal-title": "PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES"
+      },
+      {
+        "key": "e_1_2_1_15_2",
+        "first-page": "553",
+        "article-title": "RAPID SOLUTION OF PROBLEMS BY QUANTUM COMPUTATION",
+        "volume": "439",
+        "author": "DEUTSCH D",
+        "year": "1992",
+        "unstructured": "DEUTSCH D, RAPID SOLUTION OF PROBLEMS BY QUANTUM COMPUTATION, PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES 439, 553 (1992).",
+        "journal-title": "PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES"
+      },
+      {
+        "key": "e_1_2_1_16_2",
+        "first-page": "669",
+        "article-title": "UNIVERSALITY IN QUANTUM COMPUTATION",
+        "volume": "449",
+        "author": "DEUTSCH D",
+        "year": "1995",
+        "unstructured": "DEUTSCH D, UNIVERSALITY IN QUANTUM COMPUTATION, PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL AND PHYSICAL SCIENCES 449, 669 (1995).",
+        "journal-title": "PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL AND PHYSICAL SCIENCES"
+      },
+      {
+        "key": "e_1_2_1_17_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1015",
+        "DOI": "10.1103/PhysRevA.51.1015",
+        "volume": "50",
+        "author": "DIVINCENZO D",
+        "year": "1995",
+        "unstructured": "DIVINCENZO D, PHYS REV A 50, 1015 (1995).",
+        "journal-title": "PHYS REV A"
+      },
+      {
+        "key": "e_1_2_1_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.270.5234.255"
+      },
+      {
+        "key": "e_1_2_1_19_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "3554",
+        "DOI": "10.1103/PhysRevA.52.3554",
+        "article-title": "SIMPLE CAVITY-QED 2-BIT UNIVERSAL QUANTUM LOGIC GATE - THE PRINCIPLE AND EXPECTED PERFORMANCES",
+        "volume": "52",
+        "author": "DOMOKOS P",
+        "year": "1995",
+        "unstructured": "DOMOKOS P, SIMPLE CAVITY-QED 2-BIT UNIVERSAL QUANTUM LOGIC GATE - THE PRINCIPLE AND EXPECTED PERFORMANCES, PHYSICAL REVIEW A 52, 3554 (1995).",
+        "journal-title": "PHYSICAL REVIEW A"
+      },
+      {
+        "key": "e_1_2_1_20_2",
+        "author": "FETTER A.L.",
+        "year": "1971",
+        "unstructured": "FETTER A.L., QUANTUM THEORY MANY (1971).",
+        "journal-title": "QUANTUM THEORY MANY"
+      },
+      {
+        "key": "e_1_2_1_21_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "507",
+        "DOI": "10.1007/BF01886518",
+        "article-title": "QUANTUM-MECHANICAL COMPUTERS",
+        "volume": "16",
+        "author": "FEYNMAN R.P.",
+        "year": "1986",
+        "unstructured": "FEYNMAN R.P., QUANTUM-MECHANICAL COMPUTERS, FOUNDATIONS OF PHYSICS 16, 507 (1986).",
+        "journal-title": "FOUNDATIONS OF PHYSICS"
+      },
+      {
+        "key": "e_1_2_1_22_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "467",
+        "DOI": "10.1007/BF02650179",
+        "article-title": "SIMULATING PHYSICS WITH COMPUTERS",
+        "volume": "21",
+        "author": "FEYNMAN R.P.",
+        "year": "1982",
+        "unstructured": "FEYNMAN R.P., SIMULATING PHYSICS WITH COMPUTERS, INTERNATIONAL JOURNAL OF THEORETICAL PHYSICS 21, 467 (1982).",
+        "journal-title": "INTERNATIONAL JOURNAL OF THEORETICAL PHYSICS"
+      },
+      {
+        "key": "e_1_2_1_23_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "11",
+        "DOI": "10.1364/ON.11.2.000011",
+        "volume": "11",
+        "author": "FEYNMAN R.P.",
+        "year": "1985",
+        "unstructured": "FEYNMAN R.P., OPT NEWS 11, 11 (1985).",
+        "journal-title": "OPT NEWS"
+      },
+      {
+        "key": "e_1_2_1_24_2",
+        "author": "KALOS M.H.",
+        "year": "1984",
+        "unstructured": "KALOS M.H., MONTE CARLO METHODS (1984).",
+        "journal-title": "MONTE CARLO METHODS"
+      },
+      {
+        "key": "e_1_2_1_25_2",
+        "author": "KIMBLE H.J.",
+        "unstructured": "KIMBLE H.J., P INT C AT PHYS .",
+        "journal-title": "P INT C AT PHYS"
+      },
+      {
+        "key": "e_1_2_1_26_2",
+        "author": "KRAUS K",
+        "year": "1983",
+        "unstructured": "KRAUS K, STATES EFFECTS OPERA (1983).",
+        "journal-title": "STATES EFFECTS OPERA"
+      },
+      {
+        "key": "e_1_2_1_27_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "551",
+        "DOI": "10.1007/BF01886520",
+        "article-title": "COMPUTATION AND PHYSICS - WHEELER MEANING CIRCUIT",
+        "volume": "16",
+        "author": "LANDAUER R",
+        "year": "1986",
+        "unstructured": "LANDAUER R, COMPUTATION AND PHYSICS - WHEELER MEANING CIRCUIT, FOUNDATIONS OF PHYSICS 16, 551 (1986).",
+        "journal-title": "FOUNDATIONS OF PHYSICS"
+      },
+      {
+        "key": "e_1_2_1_28_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "283",
+        "DOI": "10.1007/BF01857731",
+        "article-title": "UNCERTAINTY PRINCIPLE AND MINIMAL ENERGY-DISSIPATION IN THE COMPUTER",
+        "volume": "21",
+        "author": "LANDAUER R",
+        "year": "1982",
+        "unstructured": "LANDAUER R, UNCERTAINTY PRINCIPLE AND MINIMAL ENERGY-DISSIPATION IN THE COMPUTER, INTERNATIONAL JOURNAL OF THEORETICAL PHYSICS 21, 283 (1982).",
+        "journal-title": "INTERNATIONAL JOURNAL OF THEORETICAL PHYSICS"
+      },
+      {
+        "key": "e_1_2_1_29_2",
+        "first-page": "17",
+        "author": "LANDAUER R",
+        "year": "1989",
+        "unstructured": "LANDAUER R, NANOSTRUCTURE PHYSIC: 17 (1989).",
+        "journal-title": "NANOSTRUCTURE PHYSIC"
+      },
+      {
+        "key": "e_1_2_1_30_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "779",
+        "DOI": "10.1038/335779a0",
+        "article-title": "DISSIPATION AND NOISE-IMMUNITY IN COMPUTATION AND COMMUNICATION",
+        "volume": "335",
+        "author": "LANDAUER R",
+        "year": "1988",
+        "unstructured": "LANDAUER R, DISSIPATION AND NOISE-IMMUNITY IN COMPUTATION AND COMMUNICATION, NATURE 335, 779 (1988).",
+        "journal-title": "NATURE"
+      },
+      {
+        "key": "e_1_2_1_31_2",
+        "author": "LANDAUER R",
+        "year": "1996",
+        "unstructured": "LANDAUER R, P DREX 4 S QUANT NON (1996).",
+        "journal-title": "P DREX 4 S QUANT NON"
+      },
+      {
+        "key": "e_1_2_1_32_2",
+        "first-page": "54",
+        "volume": "2",
+        "author": "LANDAUER R",
+        "year": "1994",
+        "unstructured": "LANDAUER R, P WORKSH PHYS COMP 2, 54 (1994).",
+        "journal-title": "P WORKSH PHYS COMP"
+      },
+      {
+        "key": "e_1_2_1_33_2",
+        "first-page": "407",
+        "author": "LANDAUER R",
+        "year": "1990",
+        "unstructured": "LANDAUER R, P 3 INT S FDN QUANT: 407 (1990).",
+        "journal-title": "P 3 INT S FDN QUANT"
+      },
+      {
+        "key": "e_1_2_1_34_2",
+        "first-page": "367",
+        "article-title": "Is quantum mechanics useful?",
+        "volume": "353",
+        "author": "LANDAUER R",
+        "year": "1995",
+        "unstructured": "LANDAUER R, Is quantum mechanics useful?, PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES 353, 367 (1995).",
+        "journal-title": "PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES"
+      },
+      {
+        "key": "e_1_2_1_35_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1063/1.2811186",
+        "article-title": "CAN WE SWITCH BY CONTROL OF QUANTUM-MECHANICAL TRANSMISSION",
+        "volume": "42",
+        "author": "LANDAUER R",
+        "year": "1989",
+        "unstructured": "LANDAUER R, CAN WE SWITCH BY CONTROL OF QUANTUM-MECHANICAL TRANSMISSION, PHYSICS TODAY 42, 119 (1989).",
+        "journal-title": "PHYSICS TODAY"
+      },
+      {
+        "key": "e_1_2_1_36_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1063/1.881299",
+        "article-title": "INFORMATION IS PHYSICAL",
+        "volume": "44",
+        "author": "LANDAUER R",
+        "year": "1991",
+        "unstructured": "LANDAUER R, INFORMATION IS PHYSICAL, PHYSICS TODAY 44, 23 (1991).",
+        "journal-title": "PHYSICS TODAY"
+      },
+      {
+        "key": "e_1_2_1_37_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "75",
+        "DOI": "10.1016/0378-4371(90)90359-Z",
+        "article-title": "ADVANCED TECHNOLOGY AND TRUTH IN ADVERTISING",
+        "volume": "168",
+        "author": "LANDAUER R",
+        "year": "1990",
+        "unstructured": "LANDAUER R, ADVANCED TECHNOLOGY AND TRUTH IN ADVERTISING, PHYSICA A 168, 75 (1990).",
+        "journal-title": "PHYSICA A"
+      },
+      {
+        "key": "e_1_2_1_38_2",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-1-4615-3176-0",
+        "author": "LI Z",
+        "year": "1993",
+        "unstructured": "LI Z, NONHOLONOMIC MOTION (1993).",
+        "journal-title": "NONHOLONOMIC MOTION"
+      },
+      {
+        "key": "e_1_2_1_39_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "346",
+        "DOI": "10.1103/PhysRevLett.75.346",
+        "article-title": "ALMOST ANY QUANTUM LOGIC GATE IS UNIVERSAL",
+        "volume": "75",
+        "author": "LLOYD S",
+        "year": "1995",
+        "unstructured": "LLOYD S, ALMOST ANY QUANTUM LOGIC GATE IS UNIVERSAL, PHYSICAL REVIEW LETTERS 75, 346 (1995).",
+        "journal-title": "PHYSICAL REVIEW LETTERS"
+      },
+      {
+        "key": "e_1_2_1_40_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.261.5128.1569"
+      },
+      {
+        "key": "e_1_2_1_41_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.263.5147.695"
+      },
+      {
+        "key": "e_1_2_1_42_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "749",
+        "DOI": "10.1364/OL.19.000749",
+        "article-title": "ATOM GALLERIES FOR WHISPERING ATOMS - BINDING ATOMS IN STABLE ORBITS AROUND AN OPTICAL-RESONATOR",
+        "volume": "19",
+        "author": "MABUCHI H",
+        "year": "1994",
+        "unstructured": "MABUCHI H, ATOM GALLERIES FOR WHISPERING ATOMS - BINDING ATOMS IN STABLE ORBITS AROUND AN OPTICAL-RESONATOR, OPTICS LETTERS 19, 749 (1994).",
+        "journal-title": "OPTICS LETTERS"
+      },
+      {
+        "key": "e_1_2_1_43_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "487",
+        "DOI": "10.1111/j.1749-6632.1986.tb12451.x",
+        "volume": "480",
+        "author": "MARGOLUS N",
+        "year": "1986",
+        "unstructured": "MARGOLUS N, ANN NY ACAD SCI 480, 487 (1986).",
+        "journal-title": "ANN NY ACAD SCI"
+      },
+      {
+        "key": "e_1_2_1_44_2",
+        "first-page": "273",
+        "volume": "8",
+        "author": "MARGOLUS N",
+        "year": "1991",
+        "unstructured": "MARGOLUS N, SANTA FE I SERIES 8, 273 (1991).",
+        "journal-title": "SANTA FE I SERIES"
+      },
+      {
+        "key": "e_1_2_1_45_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.1016/0375-9601(94)90240-2",
+        "article-title": "QUANTUM-NONDEMOLITION DETECTION OF SINGLE PHOTONS IN AN OPEN RESONATOR BY ATOMIC-BEAM DEFLECTION",
+        "volume": "192",
+        "author": "MATSKO A.B.",
+        "year": "1994",
+        "unstructured": "MATSKO A.B., QUANTUM-NONDEMOLITION DETECTION OF SINGLE PHOTONS IN AN OPEN RESONATOR BY ATOMIC-BEAM DEFLECTION, PHYSICS LETTERS A 192, 175 (1994).",
+        "journal-title": "PHYSICS LETTERS A"
+      },
+      {
+        "key": "e_1_2_1_46_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "2124",
+        "DOI": "10.1103/PhysRevLett.62.2124",
+        "article-title": "QUANTUM OPTICAL FREDKIN GATE",
+        "volume": "62",
+        "author": "MILBURN G.J.",
+        "year": "1989",
+        "unstructured": "MILBURN G.J., QUANTUM OPTICAL FREDKIN GATE, PHYSICAL REVIEW LETTERS 62, 2124 (1989).",
+        "journal-title": "PHYSICAL REVIEW LETTERS"
+      },
+      {
+        "key": "e_1_2_1_47_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "4714",
+        "DOI": "10.1103/PhysRevLett.75.4714",
+        "article-title": "DEMONSTRATION OF A FUNDAMENTAL QUANTUM LOGIC GATE",
+        "volume": "75",
+        "author": "MONROE C",
+        "year": "1995",
+        "unstructured": "MONROE C, DEMONSTRATION OF A FUNDAMENTAL QUANTUM LOGIC GATE, PHYSICAL REVIEW LETTERS 75, 4714 (1995).",
+        "journal-title": "PHYSICAL REVIEW LETTERS"
+      },
+      {
+        "key": "e_1_2_1_48_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.270.5240.1335"
+      },
+      {
+        "key": "e_1_2_1_49_2",
+        "author": "NEGELE J.W.",
+        "year": "1988",
+        "unstructured": "NEGELE J.W., QUANTUM MANY PARTICL (1988).",
+        "journal-title": "QUANTUM MANY PARTICL"
+      },
+      {
+        "key": "e_1_2_1_50_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "8096",
+        "DOI": "10.1103/PhysRevB.37.8096",
+        "article-title": "STRUCTURAL BASIS OF MULTISTATIONARY QUANTUM-SYSTEMS .1. EFFECTIVE SINGLE-PARTICLE DYNAMICS",
+        "volume": "37",
+        "author": "OBERMAYER K",
+        "year": "1988",
+        "unstructured": "OBERMAYER K, STRUCTURAL BASIS OF MULTISTATIONARY QUANTUM-SYSTEMS .1. EFFECTIVE SINGLE-PARTICLE DYNAMICS, PHYSICAL REVIEW B 37, 8096 (1988).",
+        "journal-title": "PHYSICAL REVIEW B"
+      },
+      {
+        "key": "e_1_2_1_51_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "567",
+        "DOI": "10.1098/rspa.1996.0029",
+        "article-title": "Quantum computers and dissipation",
+        "volume": "452",
+        "author": "PALMA G.M.",
+        "year": "1996",
+        "unstructured": "PALMA G.M., Quantum computers and dissipation, PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES 452, 567 (1996).",
+        "journal-title": "PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES"
+      },
+      {
+        "key": "e_1_2_1_52_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "3095",
+        "DOI": "10.1103/PhysRevLett.71.3095",
+        "article-title": "SYNTHESIS OF ARBITRARY QUANTUM STATES VIA ADIABATIC TRANSFER OF ZEEMAN COHERENCE",
+        "volume": "71",
+        "author": "PARKINS A.S.",
+        "year": "1993",
+        "unstructured": "PARKINS A.S., SYNTHESIS OF ARBITRARY QUANTUM STATES VIA ADIABATIC TRANSFER OF ZEEMAN COHERENCE, PHYSICAL REVIEW LETTERS 71, 3095 (1993).",
+        "journal-title": "PHYSICAL REVIEW LETTERS"
+      },
+      {
+        "key": "e_1_2_1_53_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "3266",
+        "DOI": "10.1103/PhysRevA.32.3266",
+        "article-title": "REVERSIBLE LOGIC AND QUANTUM COMPUTERS",
+        "volume": "32",
+        "author": "PERES A",
+        "year": "1985",
+        "unstructured": "PERES A, REVERSIBLE LOGIC AND QUANTUM COMPUTERS, PHYSICAL REVIEW A 32, 3266 (1985).",
+        "journal-title": "PHYSICAL REVIEW A"
+      },
+      {
+        "key": "e_1_2_1_54_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "960",
+        "DOI": "10.1103/PhysRevA.51.960",
+        "article-title": "CONTROLLABILITY OF MOLECULAR-SYSTEMS",
+        "volume": "51",
+        "author": "RAMAKRISHNA V",
+        "year": "1995",
+        "unstructured": "RAMAKRISHNA V, CONTROLLABILITY OF MOLECULAR-SYSTEMS, PHYSICAL REVIEW A 51, 960 (1995).",
+        "journal-title": "PHYSICAL REVIEW A"
+      },
+      {
+        "key": "e_1_2_1_55_2",
+        "author": "REBBI C",
+        "year": "1983",
+        "unstructured": "REBBI C, LATTICE GAUGE THEORI (1983).",
+        "journal-title": "LATTICE GAUGE THEORI"
+      },
+      {
+        "key": "e_1_2_1_56_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "124",
+        "DOI": "10.1109/SFCS.1994.365700",
+        "author": "SHOR P.W.",
+        "year": "1994",
+        "unstructured": "SHOR P.W., P 35 ANN S FDN COMP: 124 (1994).",
+        "journal-title": "P 35 ANN S FDN COMP"
+      },
+      {
+        "key": "e_1_2_1_57_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "2493",
+        "DOI": "10.1103/PhysRevA.52.R2493",
+        "article-title": "SCHEME FOR REDUCING DECOHERENCE IN QUANTUM COMPUTER MEMORY",
+        "volume": "52",
+        "author": "SHOR P.W.",
+        "year": "1995",
+        "unstructured": "SHOR P.W., SCHEME FOR REDUCING DECOHERENCE IN QUANTUM COMPUTER MEMORY, PHYSICAL REVIEW A 52, 2493 (1995).",
+        "journal-title": "PHYSICAL REVIEW A"
+      },
+      {
+        "key": "e_1_2_1_58_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "4087",
+        "DOI": "10.1103/PhysRevLett.74.4087",
+        "article-title": "REALIZABLE UNIVERSAL QUANTUM LOGIC GATES",
+        "volume": "74",
+        "author": "SLEATOR T",
+        "year": "1995",
+        "unstructured": "SLEATOR T, REALIZABLE UNIVERSAL QUANTUM LOGIC GATES, PHYSICAL REVIEW LETTERS 74, 4087 (1995).",
+        "journal-title": "PHYSICAL REVIEW LETTERS"
+      },
+      {
+        "key": "e_1_2_1_59_2",
+        "unstructured": "STEANE A unpublished data."
+      },
+      {
+        "key": "e_1_2_1_60_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "3300",
+        "DOI": "10.1103/PhysRevA.45.3300",
+        "article-title": "STOCHASTIC DYNAMICS OF INDIVIDUAL QUANTUM-SYSTEMS - STATIONARY RATE-EQUATIONS",
+        "volume": "45",
+        "author": "TEICH W.G.",
+        "year": "1992",
+        "unstructured": "TEICH W.G., STOCHASTIC DYNAMICS OF INDIVIDUAL QUANTUM-SYSTEMS - STATIONARY RATE-EQUATIONS, PHYSICAL REVIEW A 45, 3300 (1992).",
+        "journal-title": "PHYSICAL REVIEW A"
+      },
+      {
+        "key": "e_1_2_1_61_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "8111",
+        "DOI": "10.1103/PhysRevB.37.8111",
+        "article-title": "STRUCTURAL BASIS OF MULTISTATIONARY QUANTUM-SYSTEMS .2. EFFECTIVE FEW-PARTICLE DYNAMICS",
+        "volume": "37",
+        "author": "TEICH W.G.",
+        "year": "1988",
+        "unstructured": "TEICH W.G., STRUCTURAL BASIS OF MULTISTATIONARY QUANTUM-SYSTEMS .2. EFFECTIVE FEW-PARTICLE DYNAMICS, PHYSICAL REVIEW B 37, 8111 (1988).",
+        "journal-title": "PHYSICAL REVIEW B"
+      },
+      {
+        "key": "e_1_2_1_62_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "4710",
+        "DOI": "10.1103/PhysRevLett.75.4710",
+        "article-title": "MEASUREMENT OF CONDITIONAL PHASE-SHIFTS FOR QUANTUM LOGIC",
+        "volume": "75",
+        "author": "TURCHETTE Q.A.",
+        "year": "1995",
+        "unstructured": "TURCHETTE Q.A., MEASUREMENT OF CONDITIONAL PHASE-SHIFTS FOR QUANTUM LOGIC, PHYSICAL REVIEW LETTERS 75, 4710 (1995).",
+        "journal-title": "PHYSICAL REVIEW LETTERS"
+      },
+      {
+        "key": "e_1_2_1_63_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "992",
+        "DOI": "10.1103/PhysRevA.51.992",
+        "article-title": "MAINTAINING COHERENCE IN QUANTUM COMPUTERS",
+        "volume": "51",
+        "author": "UNRUH W.G.",
+        "year": "1995",
+        "unstructured": "UNRUH W.G., MAINTAINING COHERENCE IN QUANTUM COMPUTERS, PHYSICAL REVIEW A 51, 992 (1995).",
+        "journal-title": "PHYSICAL REVIEW A"
+      },
+      {
+        "key": "e_1_2_1_64_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "2084",
+        "DOI": "10.1063/1.440403",
+        "article-title": "THEORY OF SELECTIVE EXCITATION OF MULTIPLE-QUANTUM TRANSITIONS",
+        "volume": "73",
+        "author": "WARREN W.S.",
+        "year": "1980",
+        "unstructured": "WARREN W.S., THEORY OF SELECTIVE EXCITATION OF MULTIPLE-QUANTUM TRANSITIONS, JOURNAL OF CHEMICAL PHYSICS 73, 2084 (1980).",
+        "journal-title": "JOURNAL OF CHEMICAL PHYSICS"
+      },
+      {
+        "key": "e_1_2_1_65_2",
+        "first-page": "779",
+        "author": "YAMAMOTO Y",
+        "year": "1988",
+        "unstructured": "YAMAMOTO Y, 3RD P AS PAC PHYS C: 779 (1988).",
+        "journal-title": "3RD P AS PAC PHYS C"
+      },
+      {
+        "key": "e_1_2_1_66_2",
+        "first-page": "352",
+        "author": "YAO A",
+        "year": "1995",
+        "unstructured": "YAO A, P 34 ANN S FDN COMP: 352 (1995).",
+        "journal-title": "P 34 ANN S FDN COMP"
+      },
+      {
+        "key": "e_1_2_1_67_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "391",
+        "DOI": "10.1103/PhysRevLett.53.391",
+        "article-title": "REVERSIBILITY AND STABILITY OF INFORMATION-PROCESSING SYSTEMS",
+        "volume": "53",
+        "author": "ZUREK W.H.",
+        "year": "1984",
+        "unstructured": "ZUREK W.H., REVERSIBILITY AND STABILITY OF INFORMATION-PROCESSING SYSTEMS, PHYSICAL REVIEW LETTERS 53, 391 (1984).",
+        "journal-title": "PHYSICAL REVIEW LETTERS"
+      }
+    ],
+    "container-title": [
+      "Science"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.science.org/doi/pdf/10.1126/science.273.5278.1073",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          12
+        ]
+      ],
+      "date-time": "2024-01-12T23:25:22Z",
+      "timestamp": 1705101922000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.science.org/doi/10.1126/science.273.5278.1073"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          1996,
+          8,
+          23
+        ]
+      ]
+    },
+    "references-count": 66,
+    "journal-issue": {
+      "issue": "5278",
+      "published-print": {
+        "date-parts": [
+          [
+            1996,
+            8,
+            23
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1126/science.273.5278.1073"
+    ],
+    "URL": "https://doi.org/10.1126/science.273.5278.1073",
+    "relation": {},
+    "ISSN": [
+      "0036-8075",
+      "1095-9203"
+    ],
+    "issn-type": [
+      {
+        "value": "0036-8075",
+        "type": "print"
+      },
+      {
+        "value": "1095-9203",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          1996,
+          8,
+          23
+        ]
+      ]
+    }
+  },
+  "hoeffding": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          24
+        ]
+      ],
+      "date-time": "2026-09-24T15:09:00Z",
+      "timestamp": 1790262540008,
+      "version": "4.1.0"
+    },
+    "reference-count": 15,
+    "publisher": "Informa UK Limited",
+    "issue": "301",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1963,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1080/01621459.1963.10500830",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          4,
+          10
+        ]
+      ],
+      "date-time": "2012-04-10T14:04:17Z",
+      "timestamp": 1334066657000
+    },
+    "page": "13-30",
+    "source": "Crossref",
+    "is-referenced-by-count": 6701,
+    "title": [
+      "Probability Inequalities for Sums of Bounded Random Variables"
+    ],
+    "prefix": "10.1080",
+    "volume": "58",
+    "author": [
+      {
+        "given": "Wassily",
+        "family": "Hoeffding",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of North Carolina",
+            "place": [
+              "USA"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2012,
+          4,
+          10
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_1_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/aoms/1177705674"
+      },
+      {
+        "key": "e_1_2_1_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01621459.1962.10482149"
+      },
+      {
+        "key": "e_1_2_1_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/aoms/1177729330"
+      },
+      {
+        "key": "e_1_2_1_5_1",
+        "volume-title": "Stochastic Processes",
+        "author": "Doob J. L.",
+        "year": "1953",
+        "unstructured": "Doob , J. L. 1953 . Stochastic Processes , New York : John Wiley and Sons, Inc. ."
+      },
+      {
+        "key": "e_1_2_1_6_1",
+        "volume-title": "An Introduction to Probability Theory and Its Applications, Volume I, Second edition",
+        "author": "Feller William",
+        "year": "1957",
+        "unstructured": "Feller , William . 1957 . An Introduction to Probability Theory and Its Applications, Volume I, Second edition , New York : John Wiley and Sons, Inc. ."
+      },
+      {
+        "key": "e_1_2_1_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01621459.1955.10501978"
+      },
+      {
+        "key": "e_1_2_1_8_1",
+        "volume-title": "Inequalities",
+        "author": "Hardy G. H.",
+        "year": "1952",
+        "unstructured": "Hardy , G. H. , Littlewood , J. E. and P\u00f3lya , G. 1952 . Inequalities , Cambridge : University Press ."
+      },
+      {
+        "key": "e_1_2_1_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/aoms/1177730196"
+      },
+      {
+        "key": "e_1_2_1_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/aoms/1177729639"
+      },
+      {
+        "key": "e_1_2_1_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/aoms/1177730491"
+      },
+      {
+        "key": "e_1_2_1_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02883985"
+      },
+      {
+        "key": "e_1_2_1_13_1",
+        "first-page": "211",
+        "volume-title": "Teoriya Veroyatnostei i ee Primeneniya",
+        "author": "Prohorov Yu. V.",
+        "year": "1959",
+        "unstructured": "Prohorov , Yu. V. 1959 . \u201cAn extremal problem in probability theory\u201d . In Teoriya Veroyatnostei i ee Primeneniya Vol. 4 , 211 \u2013 4 . (Russian; English summary), English translation in Theory of Probability and Its Applications, 4 (1959), 201\u20133"
+      },
+      {
+        "key": "e_1_2_1_14_1",
+        "first-page": "211",
+        "article-title": "\u201cProbability inequalities of the Tchebycheff type,\u201d",
+        "volume": "65",
+        "author": "Savage I. R.",
+        "year": "1961",
+        "unstructured": "Savage , I. R. 1961 . \u201cProbability inequalities of the Tchebycheff type,\u201d . Journal of Research of the National Bureau of Standards\u2013B. Mathematics and Mathematical Physics , 65B : 211 \u2013 22 .",
+        "journal-title": "Journal of Research of the National Bureau of Standards\u2013B. Mathematics and Mathematical Physics"
+      },
+      {
+        "key": "e_1_2_1_15_1",
+        "first-page": "157",
+        "article-title": "\u201cSur les valeurs limites des int\u00e9grales,\u201d",
+        "volume": "19",
+        "author": "Tchebichef P.",
+        "year": "1874",
+        "unstructured": "Tchebichef , P. 1874 . \u201cSur les valeurs limites des int\u00e9grales,\u201d . Journal de Math\u00e9matiques Pures et Appliqu\u00e9es , 19 : 157 \u2013 60 . Ser. 2",
+        "journal-title": "Journal de Math\u00e9matiques Pures et Appliqu\u00e9es"
+      },
+      {
+        "key": "e_1_2_1_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/3001968"
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/01621459.1963.10500830",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2026-02-12T13:03:20Z",
+      "timestamp": 1770901400000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/01621459.1963.10500830"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          1963,
+          3
+        ]
+      ]
+    },
+    "references-count": 15,
+    "aliases": [
+      "10.2307/2282952",
+      "10.2307/2282952",
+      "10.2307/2282952"
+    ],
+    "journal-issue": {
+      "issue": "301",
+      "published-print": {
+        "date-parts": [
+          [
+            1963,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/01621459.1963.10500830"
+    ],
+    "URL": "https://doi.org/10.1080/01621459.1963.10500830",
+    "relation": {},
+    "ISSN": [
+      "0162-1459",
+      "1537-274X"
+    ],
+    "issn-type": [
+      {
+        "value": "0162-1459",
+        "type": "print"
+      },
+      {
+        "value": "1537-274X",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          1963,
+          3
+        ]
+      ]
+    }
+  }
+}
