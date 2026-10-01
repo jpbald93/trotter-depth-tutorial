@@ -28,6 +28,8 @@ Optional formal check (see `lean/README.md`):
 cd lean && lake exe cache get && bash gate.sh   # PASS (5 theorems, standard axioms only)
 ```
 
+`scratch/Satisfiable.lean` gives, for every theorem with hypotheses, a Lean-checked example showing the hypotheses can all be met (compile with `lake env lean scratch/Satisfiable.lean`).
+
 ## Licence and AI assistance
 Text: CC BY 4.0 (`LICENSE-CC-BY-4.0.txt`). Code: MIT (`LICENSE-code-MIT.txt`).
 
